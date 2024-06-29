@@ -1,0 +1,1 @@
+printf("I wish you’ll shine in your life! \tGood luck with all the barriers(/\) in your life.");
