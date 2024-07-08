@@ -2,9 +2,9 @@
 #include<string.h>
 
 void fun(char *arr){
-    // int size = sizeof(arr)/sizeof(char);
-    // printf("%d\n",size);
-    printf("%d\n",strlen(arr));
+    int size = sizeof(arr)/sizeof(char);
+    printf("%d\n",size);
+    // printf("%d\n",strlen(arr));
 }
 
 int main(){
