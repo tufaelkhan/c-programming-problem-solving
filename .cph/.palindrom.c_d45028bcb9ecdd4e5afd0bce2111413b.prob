@@ -1,0 +1,1 @@
+{"name":"Local: palindrom","url":"h:\\batch-3-phitron\\c program\\palindrom.c","tests":[{"id":1720812309217,"input":"abcd","output":"no"},{"id":1720812319763,"input":"madam","output":"yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"h:\\batch-3-phitron\\c program\\palindrom.c","group":"local","local":true}
